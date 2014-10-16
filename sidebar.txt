@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agl:home|Door43 (agl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agl|d43-agl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agl/archive/master.zip|d43-agl.zip]]
+
+**Recent Changes**
+{{changes>ns = agl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agl|Ethnologue data]]
+
